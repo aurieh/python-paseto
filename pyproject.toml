@@ -1,0 +1,4 @@
+[tool.black]
+line-length = 79
+# keep in sync with tox runner configuration
+target-version = ['py35']
